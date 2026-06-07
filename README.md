@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Play Tic-Tac-Toe against an undefeated Minimax-driven virtual CPU.
+  name: tic-tac-toe-ai version: 1.0 type: Repository author: VarshuAi description: >   Play Tic-Tac-Toe against an undefeated Minimax-driven virtual CPU. primary_tech: CSS
 primary_tech: CSS
 ```
 
